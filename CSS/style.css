@@ -3,6 +3,9 @@
   padding: 0;
   font-family: 'Josefin Sans', sans-serif;
 }
+.container1{
+  height: 762px;
+}
 .banner-parent{
   background-image: url("../images/top-banner.png");
   background-repeat: no-repeat;
