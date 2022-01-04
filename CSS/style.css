@@ -66,3 +66,72 @@
   position: absolute;
   font-size: 1.2rem;
 }
+.section-image{
+}
+.section-image .image{
+  width: 40%;
+  float: left;
+  margin-left: 7%;
+}
+.section-docs{
+  width: 50%;
+  height: 550px;
+  float: left;
+  margin-left: 3%;
+}
+.docs-left{
+  width: 70%;
+  float: left;
+}
+.docs-img{
+  width: 30%;
+  float: left;
+}
+.docs-img .image{
+  width: 60%;
+  float: left;
+  margin-left: 60%;
+}
+.dream-big h1{
+  font-size: 2.8rem;
+}
+.become{
+  
+  margin-top: 28px;
+  font-size: 1.1rem;
+}
+.i-already{
+  margin-top: 28px;
+  color: dimgray;
+  font-size: 1.1rem;
+}
+.download-resume button a{
+  
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  margin-top: 2px;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  position: absolute;
+  font-size: 1.2rem;
+}
+.experience{
+}
+.experience .heading{
+  font-size: 1.3rem;
+  position: 817px;
+}
+.full-container{
+  width: 100%;
+  overflow: hidden;
+}
+.circle-image{
+  width: 50%;
+  float: left;
+}
+.fullstack-table{
+  width: 50%;
+  float: left;
+}
